@@ -34,9 +34,9 @@
 :root {
   --ocean-bg: url(https://cdn.discordapp.com/attachments/468141324906921984/874986058562043984/background.png);
   --ocean-home-icon: url(https://cdn.discordapp.com/attachments/468141324906921984/874999698426068992/ocean-home-icon.png);
-  --ocean-color1: #00d5ce;
+  --ocean-color1: #DD7596;
   --ocean-color2: #0a173a;
-  --ocean-color3: #1487b1;
+  --ocean-color3: #5FBB97;
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
   --watermark-filter-saturate: 3000%;
